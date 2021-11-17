@@ -7,7 +7,7 @@ Given a context and question, the goal of question answering is to predict the a
 ## Following is our modelling choices
 ### Model
 
-[XLM-RoBERTa-large finetuned on Squad v2](https://huggingface.co/deepset/xlm-roberta-large-squad2)
+XLM-RoBERTa-large finetuned on Squad v2 ([HuggingFace model used](https://huggingface.co/deepset/xlm-roberta-large-squad2))
 
 ### Datasets
 
