@@ -4,7 +4,7 @@ Multilingual QnA - Submission to Chaii (Challenge in AI for India) competition o
 Goal was to train a model to for the task of question answering over 2 Indain Languages, Hindi and Tamil. It is used for submission in a Kaggle competition, [chaii - Hindi and Tamil Question Answering](https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering/overview), by **Google Research India** to improve the performance of NLU models in Indian languages (which are generally low resource languages).
 Given a context and question, the goal of question answering is to predict the answer to the question by selecting a span from the context.
 
-## Foloowing is our modelling choices
+## Following is our modelling choices
 ### Model
 
 [XLM-RoBERTa-large finetuned on Squad v2](https://huggingface.co/deepset/xlm-roberta-large-squad2)
